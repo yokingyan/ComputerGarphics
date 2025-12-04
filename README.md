@@ -18,7 +18,7 @@ Some Great Share Of CG  ：）
 
 
 
-## [📖 USTC_CG_25](USTC_CG_25/README.md)
+## [📖 USTC_CG_25](https://github.com/USTC-CG/USTC_CG_25)
 
 
 
