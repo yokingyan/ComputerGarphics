@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/build/Fluid2D",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -std=c++11 -o CMakeFiles/Fluid2D.dir/main.cpp.o -c /Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/Fluid2D/main.cpp",
+  "file": "/Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/Fluid2D/main.cpp",
+  "output": "Fluid2D/CMakeFiles/Fluid2D.dir/main.cpp.o"
+},
+{
+  "directory": "/Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/build/Fluid2D",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -std=c++11 -o CMakeFiles/Fluid2D.dir/src/hello.cpp.o -c /Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/Fluid2D/src/hello.cpp",
+  "file": "/Volumes/Yoking·Work/Program/ComputerGarphics/FluidSimulationDemo/code/Fluid2D/src/hello.cpp",
+  "output": "Fluid2D/CMakeFiles/Fluid2D.dir/src/hello.cpp.o"
+}
+]
